@@ -9,7 +9,7 @@
 - Настройка бэкапов и анти-краш-систем
 
 # Примеры моих работ
-## 1. [EasyCD](https://github.com/FanFaiks/EasyCD/tree/main)
+## 1. [EasyCooldown](https://github.com/FanFaiks/EasyCD/tree/main)
 Это универсальная кул даун система, позволяющая крайне просто создавать кул дауны для различных предметов, с разными типами отображения кул даунов с поддержкой HEX цветов. Вся настройка происходит через удобный config файл
 
 ## 2. [StrengthSMP](https://github.com/FanFaiks/StrengthSMP)
