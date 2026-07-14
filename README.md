@@ -11,7 +11,7 @@
 
 ## Вот некоторые из моих проектов:
 
-1. 🧊 [EasyCooldown](https://github.com/FanFaiks/EasyCD)
+1. ⏱ [EasyCooldown](https://github.com/FanFaiks/EasyCD)
 Это система для установки кул даунов на предметы. Она поддерживает HEX-цвета, разные способы отображения и легко настраивается через конфиг.
 
 2. ⚔️ [StrengthSMP](https://github.com/FanFaiks/StrengthSMP)
