@@ -31,6 +31,9 @@
 ## ⭐Отзывы заказчиков:
 1.
 <img width="486" height="74" alt="Отзыв12" src="https://github.com/user-attachments/assets/5defccc0-1490-417e-ac43-0d0681cfc1c9" />
+2. (для InfectionCraft)
+
+
 
 
 ## 📘Контактная информация:
