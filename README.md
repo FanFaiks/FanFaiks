@@ -28,6 +28,8 @@
 
 <img width="250" height="250" alt="Клешня" src="https://github.com/user-attachments/assets/ee860807-9dd0-461b-ada3-d87564964673" />
 
+<img width="250" height="250" alt="ДронДоставки" src="https://github.com/user-attachments/assets/af6de210-221b-4d11-ad03-7f69fc664742" />
+
 ## ⭐Отзывы заказчиков:
 1.
 <img width="486" height="74" alt="Отзыв12" src="https://github.com/user-attachments/assets/5defccc0-1490-417e-ac43-0d0681cfc1c9" />
