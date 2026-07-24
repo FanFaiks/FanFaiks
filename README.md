@@ -34,7 +34,7 @@
 1.
 <img width="486" height="74" alt="Отзыв12" src="https://github.com/user-attachments/assets/5defccc0-1490-417e-ac43-0d0681cfc1c9" />
 
-2. (для InfectionCraft)
+2.
 <img width="1120" height="360" alt="отзыв2" src="https://github.com/user-attachments/assets/614bdc69-15a4-49cd-acde-9d3001615904" />
 
 
