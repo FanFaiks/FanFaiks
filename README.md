@@ -16,7 +16,6 @@
 
 2. ⚔️ [StrengthSMP](https://github.com/FanFaiks/StrengthSMP)
 Это русская версия механик популярного западного проекта StrengthSMP (сезон 4). Я воссоздал все уникальные способности, 3D-элементы и ограничения оригинала.
-###### Сейчас я также работаю над режимом быстрых королевских битв, который выложу сюда чуть позже.
 
 ## Примеры 3D моделей
 
@@ -24,13 +23,16 @@
 
 <img width="250" height="250" alt="Световой меч" src="https://github.com/user-attachments/assets/9c224a34-ade2-4fef-b168-6f1daa383a53" />
 
-<img width="250" height="250" alt="Меч Ареса" src="https://github.com/user-attachments/assets/9cafab53-25f1-4f7f-af03-3520e7336928" />
-
 <img width="250" height="250" alt="Клешня" src="https://github.com/user-attachments/assets/ee860807-9dd0-461b-ada3-d87564964673" />
 
 <img width="250" height="250" alt="ДронДоставки" src="https://github.com/user-attachments/assets/af6de210-221b-4d11-ad03-7f69fc664742" />
 
 <img width="250" height="250" alt="Босс вибрации" src="https://github.com/user-attachments/assets/14de2c02-d0df-4cc3-b9c4-25c383bc29b8" />
+
+<img width="250" height="250" alt="Электромеч" src="https://github.com/user-attachments/assets/8ab3ea07-c61e-4dfa-8ffe-82230ee12609" />
+
+<img width="250" height="250" alt="Тайзер" src="https://github.com/user-attachments/assets/46569df0-9557-45df-89ed-9132d83e505e" />
+
 
 ## ⭐Отзывы заказчиков:
 1.
