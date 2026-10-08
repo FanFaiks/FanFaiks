@@ -41,6 +41,8 @@
 2.
 <img width="1120" height="360" alt="отзыв2" src="https://github.com/user-attachments/assets/614bdc69-15a4-49cd-acde-9d3001615904" />
 
+## ✨Опыт работы:
+Долгое время работал на себя, набираясь опыта. Сейчас работаю на [Bloodstone](https://discord.gg/mcnA7ahDPB) 3D моделлером и аниматором, НО всё также ищу дополнительные заказы
 
 ## 📘Контактная информация:
 *   Discord: fanfaiks
